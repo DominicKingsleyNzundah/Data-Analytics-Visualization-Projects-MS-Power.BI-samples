@@ -11,3 +11,8 @@ To contact me for anything use any of the following details :
 
 **Email**:dominicnzundah@my.uopeople.edu or dnzundah@gmail.com
 **WhatsApp**: +265884462273
+
+
+                                                   **DISCLAIMER**
+
+I **Dominic Nzundah** , do not claim any ownership of the datasets used in these analytics , these datasets were just outsourced from the internent to be used for the sake of demonstrating my abaility to conduct analytics using Power BI and most were scaled down in size in order to  meet storage limits when uploading to this reposittory.
