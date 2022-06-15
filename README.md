@@ -1,2 +1,13 @@
 # Data-Analytics-Visualization-Projects-MS-Power.BI-samples
-Contains my samples for Data analytics and visualization projects using Power BI and R-programming language
+ Data analytics and visualization projects using Power BI
+
+This repository contains data outsourced from variuos sources on the internet ,mainly for the purpose of creating sample analytics and visualizations (reports and dashboards)using Microsoft Power Bi for demonstration purposes.The repository contains raw data about restaurants (from differrent regions of the world), HIV prevalance data for various countries accross the globe, youth survey data , college data about scorecards  , cause of death data (mainly for France),countries data  and Africa food  data which has various datasets on various subjects such as : crop processing, crop production , food balance, food supply,food supply;crops and value of agricultural production.I conducted ETL(Extract Transform Load) processes prior to analytics, therefore in each parent folder you will find the transformed datasets on which  the analytics that I did are based upon .The reason I did the transformations if for me to clean up and scale  down the number of variables in order to only work with the variables that I am interested in.
+
+Further Instructions/Hints:
+- To access the transformed datasets upon which these visualizations are based , navigate to the directiory:    "parentFolderName\etls\transformed" .
+- To access the visualizations/reports ,navigate to the directiory: "parentFolderName\etls\visualizations".
+
+To contact me for anything use any of the following details :
+
+Email:dominicnzundah@my.uopeople.edu or dnzundah@gmail.com
+Whatsapp: +265884462273
